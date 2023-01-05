@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bernuzy 
 
-- 🌱 Estudante de programação // Cursando - Analise e Desenvolvimento de Sistemas 2º Semestre
+- 🌱 Estudante de programação // Cursando - Analise e Desenvolvimento de Sistemas 3º Semestre
 - 😄 Pronouns: ele/dele
 
 <div>
